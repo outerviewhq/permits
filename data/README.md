@@ -1,0 +1,78 @@
+# Permit regional datasets
+
+Generated regional permit samples organized by country and city.
+
+- Regions: 67
+- Artifact-region datasets: 1369
+- Rows written: 515930
+- Maximum rows per artifact-region dataset: 1500
+
+## Regions
+
+- [CA / Burnaby](ca/burnaby/README.md) — 3 permit datasets
+- [CA / Metro Vancouver A](ca/metro-vancouver-a/README.md) — 5 permit datasets
+- [CA / Vancouver](ca/vancouver/README.md) — 9 permit datasets
+- [US / Alhambra](us/alhambra-132302/README.md) — 32 permit datasets
+- [US / Arcadia](us/arcadia-132327/README.md) — 3 permit datasets
+- [US / Austin](us/austin-147866/README.md) — 54 permit datasets
+- [US / Bee Cave](us/bee-cave/README.md) — 28 permit datasets
+- [US / Beverly Hills](us/beverly-hills-132373/README.md) — 39 permit datasets
+- [US / Carson](us/carson-132449/README.md) — 25 permit datasets
+- [US / Cedar Park](us/cedar-park/README.md) — 3 permit datasets
+- [US / Chicago](us/chicago/README.md) — 54 permit datasets
+- [US / Cicero](us/cicero-135730/README.md) — 2 permit datasets
+- [US / Commerce](us/commerce-132500/README.md) — 13 permit datasets
+- [US / Culver City](us/culver-city/README.md) — 37 permit datasets
+- [US / Des Plaines](us/des-plaines/README.md) — 36 permit datasets
+- [US / Edina](us/edina-140002/README.md) — 5 permit datasets
+- [US / El Segundo](us/el-segundo/README.md) — 14 permit datasets
+- [US / Elk Grove Village](us/elk-grove-village/README.md) — 6 permit datasets
+- [US / Evanston](us/evanston-135818/README.md) — 23 permit datasets
+- [US / Evergreen Park](us/evergreen-park/README.md) — 6 permit datasets
+- [US / Gardena](us/gardena/README.md) — 30 permit datasets
+- [US / Glendale](us/glendale-132660/README.md) — 33 permit datasets
+- [US / Harwood Heights](us/harwood-heights/README.md) — 4 permit datasets
+- [US / Hempstead](us/hempstead-142946/README.md) — 13 permit datasets
+- [US / Hidden Hills](us/hidden-hills/README.md) — 18 permit datasets
+- [US / Inglewood](us/inglewood/README.md) — 26 permit datasets
+- [US / Lakeway](us/lakeway/README.md) — 32 permit datasets
+- [US / Leander](us/leander/README.md) — 2 permit datasets
+- [US / Lincolnwood](us/lincolnwood/README.md) — 13 permit datasets
+- [US / Lomita](us/lomita/README.md) — 19 permit datasets
+- [US / Long Beach](us/long-beach-132842/README.md) — 11 permit datasets
+- [US / Los Angeles](us/los-angeles/README.md) — 54 permit datasets
+- [US / Lynwood](us/lynwood-132862/README.md) — 21 permit datasets
+- [US / Manor](us/manor-148537/README.md) — 6 permit datasets
+- [US / Merrionette Park](us/merrionette-park/README.md) — 2 permit datasets
+- [US / Minneapolis](us/minneapolis-140137/README.md) — 51 permit datasets
+- [US / Monrovia](us/monrovia-132919/README.md) — 3 permit datasets
+- [US / Mount Vernon](us/mount-vernon-143152/README.md) — 20 permit datasets
+- [US / New York City](us/new-york-city/README.md) — 54 permit datasets
+- [US / Niles](us/niles-136142/README.md) — 18 permit datasets
+- [US / Norridge](us/norridge/README.md) — 4 permit datasets
+- [US / Park Ridge](us/park-ridge-136190/README.md) — 7 permit datasets
+- [US / Pasadena](us/pasadena-133025/README.md) — 24 permit datasets
+- [US / Pflugerville](us/pflugerville/README.md) — 25 permit datasets
+- [US / Philadelphia](us/philadelphia-146348/README.md) — 54 permit datasets
+- [US / Pittsburgh](us/pittsburgh/README.md) — 2 permit datasets
+- [US / Rancho Palos Verdes](us/rancho-palos-verdes/README.md) — 23 permit datasets
+- [US / Renton](us/renton/README.md) — 2 permit datasets
+- [US / Richfield](us/richfield-140227/README.md) — 5 permit datasets
+- [US / Riverdale](us/riverdale-136241/README.md) — 1 permit datasets
+- [US / Rollingwood](us/rollingwood-148801/README.md) — 25 permit datasets
+- [US / Rosemont](us/rosemont-136263/README.md) — 4 permit datasets
+- [US / Round Rock](us/round-rock/README.md) — 18 permit datasets
+- [US / San Fernando](us/san-fernando/README.md) — 29 permit datasets
+- [US / San Francisco](us/san-francisco/README.md) — 52 permit datasets
+- [US / Santa Monica](us/santa-monica/README.md) — 29 permit datasets
+- [US / Seattle](us/seattle/README.md) — 54 permit datasets
+- [US / Shoreline](us/shoreline/README.md) — 5 permit datasets
+- [US / Skokie](us/skokie/README.md) — 6 permit datasets
+- [US / South Gate](us/south-gate-133238/README.md) — 14 permit datasets
+- [US / South Pasadena](us/south-pasadena-133241/README.md) — 23 permit datasets
+- [US / The Hills](us/the-hills/README.md) — 24 permit datasets
+- [US / Torrance](us/torrance/README.md) — 38 permit datasets
+- [US / Tukwila](us/tukwila/README.md) — 3 permit datasets
+- [US / West Hollywood](us/west-hollywood-133365/README.md) — 35 permit datasets
+- [US / West Lake Hills](us/west-lake-hills/README.md) — 34 permit datasets
+- [US / Yonkers](us/yonkers/README.md) — 2 permit datasets
