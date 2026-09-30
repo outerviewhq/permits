@@ -1,0 +1,15 @@
+{
+  "name": "Outerview Permits",
+  "slug": "permits",
+  "publisher": "Outerview",
+  "description": "A public directory for Outerview permit datasets and country-specific publications.",
+  "category": "permits",
+  "formats": ["csv", "json", "geojson", "parquet"],
+  "license": "MIT",
+  "repository_type": "dataset-index",
+  "full_dataset_url": "https://outerview.ai/data/permits",
+  "api_url": "https://outerview.ai/developers",
+  "permit_type_count": 54,
+  "public_schema_fields": ["date", "year", "description", "metadescription", "address", "geometry"],
+  "country_repositories": "linked as published"
+}
