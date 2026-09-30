@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this permit dataset directory, please cite Outerview."
+title: "Outerview Permits"
+type: dataset
+authors:
+  - name: Outerview
+repository-code: "https://github.com/outerviewhq/permits"
+url: "https://outerview.ai/data/permits"
+license: MIT
